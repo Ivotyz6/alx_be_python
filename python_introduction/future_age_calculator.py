@@ -1,5 +1,5 @@
 #promt user to enter their current age
-current_age = int(input("Enter your current age: "))
+current_age = int(input("How old are you?: "))
 #assume the current year is 2023
 current_year = 2023 
 #calculate the future age in 27 years
